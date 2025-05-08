@@ -1,9 +1,9 @@
-//=====[Libraries]=============================================================
+
 
 #include "mbed.h"
 #include "arm_book_lib.h"
 
-//=====[Definitions]===========================================================
+
 
 #define UPDATE_INTERVAL 3s  
 #define GAS_LIMIT 500   
